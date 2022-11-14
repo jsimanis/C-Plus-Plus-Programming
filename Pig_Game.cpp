@@ -1,8 +1,8 @@
 /*
 	The game of Pig is a simple 2 player dice game in which the first player to reach 100 is the winner. 
-	On each turn a player rolls a six sided dice. After each roll,
+	On each turn a player rolls a six sided die. After each roll,
 		if the player rolls a 1:
-			player gets a score of 0 and loses their turn
+			player gets a score of 0 and loses their turn.
 		if the player rolls a 2-6, then they can either
 			Roll again to acculmate more points. OR
 			Hold. The sum of all rolls is added to the player's total score and ends their turn. 
