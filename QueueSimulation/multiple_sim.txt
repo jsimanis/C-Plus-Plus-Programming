@@ -1,0 +1,1225 @@
+Customer 1 arrived at minute 1 
+Customer 1 served by Register 1 at minute 1
+Customer 2 arrived at minute 2 
+Customer 2 served by Register 2 at minute 2
+Customer 2 has left register 2 at minute 3
+Customer 3 arrived at minute 5 
+Customer 3 served by Register 2 at minute 5
+Customer 4 arrived at minute 8 
+Customer 4 served by Register 3 at minute 8
+Customer 1 has left register 1 at minute 9
+Customer 5 arrived at minute 9 
+Customer 5 served by Register 1 at minute 9
+Customer 6 arrived at minute 10 
+Customer 6 added to queue 1
+Customer 7 arrived at minute 11 
+Customer 7 added to queue 2
+Customer 3 has left register 2 at minute 12
+Customer 7 served by Register 2 starting at minute 12
+Customer 8 arrived at minute 14 
+Customer 8 added to queue 2
+Customer 4 has left register 3 at minute 15
+Customer 5 has left register 1 at minute 16
+Customer 6 served by Register 1 starting at minute 16
+Customer 9 arrived at minute 16 
+Customer 9 served by Register 3 at minute 16
+Customer 9 has left register 3 at minute 18
+Customer 10 arrived at minute 18 
+Customer 10 served by Register 3 at minute 18
+Customer 11 arrived at minute 19 
+Customer 11 added to queue 1
+Customer 7 has left register 2 at minute 20
+Customer 8 served by Register 2 starting at minute 20
+Customer 6 has left register 1 at minute 21
+Customer 11 served by Register 1 starting at minute 21
+Customer 12 arrived at minute 21 
+Customer 12 added to queue 1
+Customer 13 arrived at minute 22 
+Customer 13 added to queue 2
+Customer 10 has left register 3 at minute 24
+Customer 14 arrived at minute 25 
+Customer 14 served by Register 3 at minute 25
+Customer 14 has left register 3 at minute 27
+Customer 11 has left register 1 at minute 28
+Customer 12 served by Register 1 starting at minute 28
+Customer 15 arrived at minute 28 
+Customer 15 served by Register 3 at minute 28
+Customer 12 has left register 1 at minute 30
+Customer 8 has left register 2 at minute 30
+Customer 13 served by Register 2 starting at minute 30
+Customer 16 arrived at minute 31 
+Customer 16 served by Register 1 at minute 31
+Customer 17 arrived at minute 32 
+Customer 17 added to queue 1
+Customer 18 arrived at minute 33 
+Customer 18 added to queue 2
+Customer 13 has left register 2 at minute 34
+Customer 18 served by Register 2 starting at minute 34
+Customer 15 has left register 3 at minute 35
+Customer 18 has left register 2 at minute 36
+Customer 19 arrived at minute 36 
+Customer 19 served by Register 2 at minute 36
+Customer 20 arrived at minute 38 
+Customer 20 served by Register 3 at minute 38
+Customer 19 has left register 2 at minute 39
+Customer 21 arrived at minute 39 
+Customer 21 served by Register 2 at minute 39
+Customer 16 has left register 1 at minute 40
+Customer 17 served by Register 1 starting at minute 40
+Customer 20 has left register 3 at minute 40
+Customer 22 arrived at minute 42 
+Customer 22 served by Register 3 at minute 42
+Customer 23 arrived at minute 44 
+Customer 23 added to queue 1
+Customer 17 has left register 1 at minute 45
+Customer 23 served by Register 1 starting at minute 45
+Customer 24 arrived at minute 45 
+Customer 24 added to queue 1
+Customer 21 has left register 2 at minute 46
+Customer 22 has left register 3 at minute 46
+Customer 25 arrived at minute 47 
+Customer 25 served by Register 2 at minute 47
+Customer 26 arrived at minute 48 
+Customer 26 served by Register 3 at minute 48
+Customer 23 has left register 1 at minute 51
+Customer 24 served by Register 1 starting at minute 51
+Customer 27 arrived at minute 51 
+Customer 27 added to queue 1
+Customer 28 arrived at minute 52 
+Customer 28 added to queue 2
+Customer 25 has left register 2 at minute 53
+Customer 28 served by Register 2 starting at minute 53
+Customer 29 arrived at minute 53 
+Customer 29 added to queue 2
+Customer 24 has left register 1 at minute 54
+Customer 27 served by Register 1 starting at minute 54
+Customer 26 has left register 3 at minute 54
+Customer 30 arrived at minute 55 
+Customer 30 served by Register 3 at minute 55
+Customer 31 arrived at minute 56 
+Customer 31 added to queue 1
+Customer 28 has left register 2 at minute 58
+Customer 29 served by Register 2 starting at minute 58
+Customer 32 arrived at minute 59 
+Customer 32 added to queue 2
+Customer 33 arrived at minute 60 
+Customer 33 added to queue 3
+Customer 30 has left register 3 at minute 62
+Customer 33 served by Register 3 starting at minute 62
+Customer 27 has left register 1 at minute 63
+Customer 31 served by Register 1 starting at minute 63
+Customer 34 arrived at minute 63 
+Customer 34 added to queue 1
+Customer 35 arrived at minute 64 
+Customer 35 added to queue 3
+Customer 31 has left register 1 at minute 67
+Customer 34 served by Register 1 starting at minute 67
+Customer 29 has left register 2 at minute 67
+Customer 32 served by Register 2 starting at minute 67
+Customer 36 arrived at minute 67 
+Customer 36 added to queue 1
+Customer 34 has left register 1 at minute 68
+Customer 36 served by Register 1 starting at minute 68
+Customer 36 has left register 1 at minute 69
+Customer 37 arrived at minute 69 
+Customer 37 served by Register 1 at minute 69
+Customer 32 has left register 2 at minute 71
+Customer 33 has left register 3 at minute 71
+Customer 35 served by Register 3 starting at minute 71
+Customer 38 arrived at minute 72 
+Customer 38 served by Register 2 at minute 72
+Customer 39 arrived at minute 75 
+Customer 39 added to queue 1
+Customer 38 has left register 2 at minute 76
+Customer 35 has left register 3 at minute 76
+Customer 40 arrived at minute 76 
+Customer 40 served by Register 2 at minute 76
+Customer 41 arrived at minute 77 
+Customer 41 served by Register 3 at minute 77
+Customer 37 has left register 1 at minute 78
+Customer 39 served by Register 1 starting at minute 78
+Customer 39 has left register 1 at minute 79
+Customer 42 arrived at minute 79 
+Customer 42 served by Register 1 at minute 79
+Customer 42 has left register 1 at minute 81
+Customer 40 has left register 2 at minute 81
+Customer 41 has left register 3 at minute 82
+Customer 43 arrived at minute 82 
+Customer 43 served by Register 1 at minute 82
+Customer 43 has left register 1 at minute 83
+Customer 44 arrived at minute 85 
+Customer 44 served by Register 1 at minute 85
+Customer 45 arrived at minute 86 
+Customer 45 served by Register 2 at minute 86
+Customer 46 arrived at minute 87 
+Customer 46 served by Register 3 at minute 87
+Customer 47 arrived at minute 88 
+Customer 47 added to queue 1
+Customer 48 arrived at minute 89 
+Customer 48 added to queue 2
+Customer 45 has left register 2 at minute 90
+Customer 48 served by Register 2 starting at minute 90
+Customer 49 arrived at minute 91 
+Customer 49 added to queue 2
+Customer 50 arrived at minute 92 
+Customer 50 added to queue 3
+Customer 44 has left register 1 at minute 93
+Customer 47 served by Register 1 starting at minute 93
+Customer 46 has left register 3 at minute 94
+Customer 50 served by Register 3 starting at minute 94
+Customer 51 arrived at minute 94 
+Customer 51 added to queue 1
+Customer 52 arrived at minute 95 
+Customer 52 added to queue 3
+Customer 48 has left register 2 at minute 97
+Customer 49 served by Register 2 starting at minute 97
+Customer 47 has left register 1 at minute 98
+Customer 51 served by Register 1 starting at minute 98
+Customer 53 arrived at minute 98 
+Customer 53 added to queue 1
+Customer 54 arrived at minute 99 
+Customer 54 added to queue 2
+Customer 50 has left register 3 at minute 100
+Customer 52 served by Register 3 starting at minute 100
+Customer 55 arrived at minute 100 
+Customer 55 added to queue 3
+Customer 52 has left register 3 at minute 103
+Customer 55 served by Register 3 starting at minute 103
+Customer 56 arrived at minute 103 
+Customer 56 added to queue 3
+Customer 49 has left register 2 at minute 105
+Customer 54 served by Register 2 starting at minute 105
+Customer 57 arrived at minute 105 
+Customer 57 added to queue 2
+Customer 51 has left register 1 at minute 106
+Customer 53 served by Register 1 starting at minute 106
+Customer 54 has left register 2 at minute 107
+Customer 57 served by Register 2 starting at minute 107
+Customer 55 has left register 3 at minute 107
+Customer 56 served by Register 3 starting at minute 107
+Customer 58 arrived at minute 107 
+Customer 58 added to queue 1
+Customer 59 arrived at minute 110 
+Customer 59 added to queue 2
+Customer 53 has left register 1 at minute 111
+Customer 58 served by Register 1 starting at minute 111
+Customer 56 has left register 3 at minute 112
+Customer 60 arrived at minute 113 
+Customer 60 served by Register 3 at minute 113
+Customer 61 arrived at minute 114 
+Customer 61 added to queue 1
+Customer 57 has left register 2 at minute 116
+Customer 59 served by Register 2 starting at minute 116
+Customer 58 has left register 1 at minute 117
+Customer 61 served by Register 1 starting at minute 117
+Customer 62 arrived at minute 117 
+Customer 62 added to queue 1
+Customer 63 arrived at minute 118 
+Customer 63 added to queue 2
+Customer 61 has left register 1 at minute 119
+Customer 62 served by Register 1 starting at minute 119
+Customer 59 has left register 2 at minute 119
+Customer 63 served by Register 2 starting at minute 119
+Customer 64 arrived at minute 120 
+Customer 64 added to queue 1
+Customer 60 has left register 3 at minute 121
+Customer 65 arrived at minute 121 
+Customer 65 served by Register 3 at minute 121
+Customer 66 arrived at minute 123 
+Customer 66 added to queue 2
+Customer 62 has left register 1 at minute 124
+Customer 64 served by Register 1 starting at minute 124
+Customer 64 has left register 1 at minute 125
+Customer 67 arrived at minute 126 
+Customer 67 served by Register 1 at minute 126
+Customer 68 arrived at minute 127 
+Customer 68 added to queue 1
+Customer 63 has left register 2 at minute 128
+Customer 66 served by Register 2 starting at minute 128
+Customer 65 has left register 3 at minute 130
+Customer 69 arrived at minute 130 
+Customer 69 served by Register 3 at minute 130
+Customer 67 has left register 1 at minute 131
+Customer 68 served by Register 1 starting at minute 131
+Customer 69 has left register 3 at minute 131
+Customer 70 arrived at minute 132 
+Customer 70 served by Register 3 at minute 132
+Customer 71 arrived at minute 135 
+Customer 71 added to queue 1
+Customer 68 has left register 1 at minute 136
+Customer 71 served by Register 1 starting at minute 136
+Customer 66 has left register 2 at minute 137
+Customer 72 arrived at minute 137 
+Customer 72 served by Register 2 at minute 137
+Customer 70 has left register 3 at minute 139
+Customer 73 arrived at minute 139 
+Customer 73 served by Register 3 at minute 139
+Customer 74 arrived at minute 140 
+Customer 74 added to queue 1
+Customer 71 has left register 1 at minute 141
+Customer 74 served by Register 1 starting at minute 141
+Customer 72 has left register 2 at minute 143
+Customer 75 arrived at minute 143 
+Customer 75 served by Register 2 at minute 143
+Customer 74 has left register 1 at minute 144
+Customer 76 arrived at minute 144 
+Customer 76 served by Register 1 at minute 144
+Customer 73 has left register 3 at minute 145
+Customer 77 arrived at minute 147 
+Customer 77 served by Register 3 at minute 147
+Customer 76 has left register 1 at minute 150
+Customer 78 arrived at minute 150 
+Customer 78 served by Register 1 at minute 150
+Customer 75 has left register 2 at minute 151
+Customer 79 arrived at minute 151 
+Customer 79 served by Register 2 at minute 151
+Customer 80 arrived at minute 154 
+Customer 80 added to queue 1
+Customer 79 has left register 2 at minute 155
+Customer 77 has left register 3 at minute 155
+Customer 81 arrived at minute 155 
+Customer 81 served by Register 2 at minute 155
+Customer 82 arrived at minute 157 
+Customer 82 served by Register 3 at minute 157
+Customer 83 arrived at minute 158 
+Customer 83 added to queue 2
+Customer 78 has left register 1 at minute 159
+Customer 80 served by Register 1 starting at minute 159
+Customer 84 arrived at minute 160 
+Customer 84 added to queue 1
+Customer 80 has left register 1 at minute 162
+Customer 84 served by Register 1 starting at minute 162
+Customer 85 arrived at minute 163 
+Customer 85 added to queue 1
+Customer 81 has left register 2 at minute 164
+Customer 83 served by Register 2 starting at minute 164
+Customer 84 has left register 1 at minute 165
+Customer 85 served by Register 1 starting at minute 165
+Customer 86 arrived at minute 165 
+Customer 86 added to queue 1
+Customer 85 has left register 1 at minute 166
+Customer 86 served by Register 1 starting at minute 166
+Customer 82 has left register 3 at minute 166
+Customer 87 arrived at minute 166 
+Customer 87 served by Register 3 at minute 166
+Customer 86 has left register 1 at minute 168
+Customer 87 has left register 3 at minute 168
+Customer 88 arrived at minute 168 
+Customer 88 served by Register 1 at minute 168
+Customer 88 has left register 1 at minute 169
+Customer 83 has left register 2 at minute 170
+Customer 89 arrived at minute 170 
+Customer 89 served by Register 1 at minute 170
+Customer 89 has left register 1 at minute 171
+Customer 90 arrived at minute 173 
+Customer 90 served by Register 1 at minute 173
+Customer 91 arrived at minute 175 
+Customer 91 served by Register 2 at minute 175
+Customer 92 arrived at minute 176 
+Customer 92 served by Register 3 at minute 176
+Customer 93 arrived at minute 177 
+Customer 93 added to queue 1
+Customer 91 has left register 2 at minute 179
+Customer 94 arrived at minute 179 
+Customer 94 served by Register 2 at minute 179
+Customer 94 has left register 2 at minute 180
+Customer 95 arrived at minute 182 
+Customer 95 served by Register 2 at minute 182
+Customer 90 has left register 1 at minute 183
+Customer 93 served by Register 1 starting at minute 183
+Customer 92 has left register 3 at minute 185
+Customer 96 arrived at minute 185 
+Customer 96 served by Register 3 at minute 185
+Customer 97 arrived at minute 188 
+Customer 97 added to queue 1
+Customer 98 arrived at minute 189 
+Customer 98 added to queue 2
+Customer 96 has left register 3 at minute 191
+Customer 93 has left register 1 at minute 192
+Customer 97 served by Register 1 starting at minute 192
+Customer 95 has left register 2 at minute 192
+Customer 98 served by Register 2 starting at minute 192
+Customer 99 arrived at minute 192 
+Customer 99 served by Register 3 at minute 192
+Customer 99 has left register 3 at minute 193
+Customer 98 has left register 2 at minute 195
+Customer 100 arrived at minute 195 
+Customer 100 served by Register 2 at minute 195
+Customer 101 arrived at minute 196 
+Customer 101 served by Register 3 at minute 196
+Customer 100 has left register 2 at minute 197
+Customer 102 arrived at minute 199 
+Customer 102 served by Register 2 at minute 199
+Customer 102 has left register 2 at minute 200
+Customer 97 has left register 1 at minute 201
+Customer 103 arrived at minute 202 
+Customer 103 served by Register 1 at minute 202
+Customer 104 arrived at minute 203 
+Customer 104 served by Register 2 at minute 203
+Customer 101 has left register 3 at minute 204
+Customer 105 arrived at minute 206 
+Customer 105 served by Register 3 at minute 206
+Customer 103 has left register 1 at minute 207
+Customer 106 arrived at minute 207 
+Customer 106 served by Register 1 at minute 207
+Customer 105 has left register 3 at minute 209
+Customer 107 arrived at minute 210 
+Customer 107 served by Register 3 at minute 210
+Customer 108 arrived at minute 211 
+Customer 108 added to queue 1
+Customer 106 has left register 1 at minute 212
+Customer 108 served by Register 1 starting at minute 212
+Customer 104 has left register 2 at minute 212
+Customer 108 has left register 1 at minute 213
+Customer 109 arrived at minute 213 
+Customer 109 served by Register 1 at minute 213
+Customer 107 has left register 3 at minute 214
+Customer 110 arrived at minute 215 
+Customer 110 served by Register 2 at minute 215
+Customer 111 arrived at minute 216 
+Customer 111 served by Register 3 at minute 216
+Customer 109 has left register 1 at minute 217
+Customer 111 has left register 3 at minute 217
+Customer 112 arrived at minute 219 
+Customer 112 served by Register 1 at minute 219
+Customer 113 arrived at minute 222 
+Customer 113 served by Register 3 at minute 222
+Customer 110 has left register 2 at minute 223
+Customer 112 has left register 1 at minute 224
+Customer 113 has left register 3 at minute 224
+Customer 114 arrived at minute 225 
+Customer 114 served by Register 1 at minute 225
+Customer 115 arrived at minute 226 
+Customer 115 served by Register 2 at minute 226
+Customer 116 arrived at minute 228 
+Customer 116 served by Register 3 at minute 228
+Customer 117 arrived at minute 230 
+Customer 117 added to queue 1
+Customer 114 has left register 1 at minute 231
+Customer 117 served by Register 1 starting at minute 231
+Customer 115 has left register 2 at minute 231
+Customer 118 arrived at minute 233 
+Customer 118 served by Register 2 at minute 233
+Customer 118 has left register 2 at minute 235
+Customer 117 has left register 1 at minute 236
+Customer 116 has left register 3 at minute 236
+Customer 119 arrived at minute 236 
+Customer 119 served by Register 1 at minute 236
+Customer 120 arrived at minute 238 
+Customer 120 served by Register 2 at minute 238
+Customer 121 arrived at minute 241 
+Customer 121 served by Register 3 at minute 241
+Customer 120 has left register 2 at minute 242
+Customer 121 has left register 3 at minute 242
+Customer 122 arrived at minute 243 
+Customer 122 served by Register 2 at minute 243
+Customer 119 has left register 1 at minute 244
+Customer 123 arrived at minute 244 
+Customer 123 served by Register 1 at minute 244
+Customer 124 arrived at minute 247 
+Customer 124 served by Register 3 at minute 247
+Customer 123 has left register 1 at minute 249
+Customer 124 has left register 3 at minute 249
+Customer 125 arrived at minute 249 
+Customer 125 served by Register 1 at minute 249
+Customer 126 arrived at minute 251 
+Customer 126 served by Register 3 at minute 251
+Customer 122 has left register 2 at minute 252
+Customer 127 arrived at minute 254 
+Customer 127 served by Register 2 at minute 254
+Customer 125 has left register 1 at minute 256
+Customer 126 has left register 3 at minute 256
+Customer 128 arrived at minute 257 
+Customer 128 served by Register 1 at minute 257
+Customer 127 has left register 2 at minute 259
+Customer 129 arrived at minute 260 
+Customer 129 served by Register 2 at minute 260
+Customer 130 arrived at minute 262 
+Customer 130 served by Register 3 at minute 262
+Customer 131 arrived at minute 265 
+Customer 131 added to queue 1
+Customer 128 has left register 1 at minute 266
+Customer 131 served by Register 1 starting at minute 266
+Customer 129 has left register 2 at minute 267
+Customer 132 arrived at minute 267 
+Customer 132 served by Register 2 at minute 267
+Customer 133 arrived at minute 270 
+Customer 133 added to queue 1
+Customer 130 has left register 3 at minute 272
+Customer 131 has left register 1 at minute 273
+Customer 133 served by Register 1 starting at minute 273
+Customer 132 has left register 2 at minute 273
+Customer 134 arrived at minute 273 
+Customer 134 served by Register 2 at minute 273
+Customer 135 arrived at minute 276 
+Customer 135 served by Register 3 at minute 276
+Customer 133 has left register 1 at minute 279
+Customer 136 arrived at minute 279 
+Customer 136 served by Register 1 at minute 279
+Customer 137 arrived at minute 280 
+Customer 137 added to queue 1
+Customer 138 arrived at minute 282 
+Customer 138 added to queue 2
+Customer 134 has left register 2 at minute 283
+Customer 138 served by Register 2 starting at minute 283
+Customer 139 arrived at minute 283 
+Customer 139 added to queue 2
+Customer 140 arrived at minute 284 
+Customer 140 added to queue 3
+Customer 136 has left register 1 at minute 285
+Customer 137 served by Register 1 starting at minute 285
+Customer 135 has left register 3 at minute 286
+Customer 140 served by Register 3 starting at minute 286
+Customer 141 arrived at minute 287 
+Customer 141 added to queue 1
+Customer 140 has left register 3 at minute 289
+Customer 142 arrived at minute 289 
+Customer 142 served by Register 3 at minute 289
+Customer 138 has left register 2 at minute 290
+Customer 139 served by Register 2 starting at minute 290
+Customer 137 has left register 1 at minute 291
+Customer 141 served by Register 1 starting at minute 291
+Customer 142 has left register 3 at minute 291
+Customer 143 arrived at minute 291 
+Customer 143 served by Register 3 at minute 291
+Customer 144 arrived at minute 294 
+Customer 144 added to queue 1
+Customer 145 arrived at minute 296 
+Customer 145 added to queue 2
+Customer 139 has left register 2 at minute 298
+Customer 145 served by Register 2 starting at minute 298
+Customer 146 arrived at minute 298 
+Customer 146 added to queue 2
+Customer 141 has left register 1 at minute 299
+Customer 144 served by Register 1 starting at minute 299
+Customer 147 arrived at minute 300 
+Customer 147 added to queue 1
+Customer 144 has left register 1 at minute 301
+Customer 147 served by Register 1 starting at minute 301
+Customer 143 has left register 3 at minute 301
+Customer 147 has left register 1 at minute 303
+Customer 148 arrived at minute 303 
+Customer 148 served by Register 1 at minute 303
+Customer 149 arrived at minute 304 
+Customer 149 served by Register 3 at minute 304
+Customer 145 has left register 2 at minute 305
+Customer 146 served by Register 2 starting at minute 305
+Customer 149 has left register 3 at minute 306
+Customer 150 arrived at minute 307 
+Customer 150 served by Register 3 at minute 307
+Customer 148 has left register 1 at minute 309
+Customer 150 has left register 3 at minute 309
+Customer 151 arrived at minute 310 
+Customer 151 served by Register 1 at minute 310
+Customer 151 has left register 1 at minute 311
+Customer 152 arrived at minute 311 
+Customer 152 served by Register 1 at minute 311
+Customer 153 arrived at minute 312 
+Customer 153 served by Register 3 at minute 312
+Customer 154 arrived at minute 313 
+Customer 154 added to queue 1
+Customer 146 has left register 2 at minute 314
+Customer 155 arrived at minute 314 
+Customer 155 served by Register 2 at minute 314
+Customer 152 has left register 1 at minute 315
+Customer 154 served by Register 1 starting at minute 315
+Customer 153 has left register 3 at minute 315
+Customer 156 arrived at minute 315 
+Customer 156 served by Register 3 at minute 315
+Customer 157 arrived at minute 317 
+Customer 157 added to queue 1
+Customer 156 has left register 3 at minute 318
+Customer 158 arrived at minute 320 
+Customer 158 served by Register 3 at minute 320
+Customer 158 has left register 3 at minute 321
+Customer 159 arrived at minute 322 
+Customer 159 served by Register 3 at minute 322
+Customer 160 arrived at minute 323 
+Customer 160 added to queue 2
+Customer 155 has left register 2 at minute 324
+Customer 160 served by Register 2 starting at minute 324
+Customer 161 arrived at minute 324 
+Customer 161 added to queue 2
+Customer 154 has left register 1 at minute 325
+Customer 157 served by Register 1 starting at minute 325
+Customer 157 has left register 1 at minute 326
+Customer 162 arrived at minute 327 
+Customer 162 served by Register 1 at minute 327
+Customer 163 arrived at minute 328 
+Customer 163 added to queue 1
+Customer 159 has left register 3 at minute 329
+Customer 164 arrived at minute 330 
+Customer 164 served by Register 3 at minute 330
+Customer 160 has left register 2 at minute 331
+Customer 161 served by Register 2 starting at minute 331
+Customer 165 arrived at minute 332 
+Customer 165 added to queue 2
+Customer 164 has left register 3 at minute 334
+Customer 166 arrived at minute 334 
+Customer 166 served by Register 3 at minute 334
+Customer 162 has left register 1 at minute 335
+Customer 163 served by Register 1 starting at minute 335
+Customer 163 has left register 1 at minute 336
+Customer 161 has left register 2 at minute 336
+Customer 165 served by Register 2 starting at minute 336
+Customer 165 has left register 2 at minute 337
+Customer 167 arrived at minute 337 
+Customer 167 served by Register 1 at minute 337
+Customer 168 arrived at minute 339 
+Customer 168 served by Register 2 at minute 339
+Customer 168 has left register 2 at minute 340
+Customer 167 has left register 1 at minute 341
+Customer 166 has left register 3 at minute 341
+Customer 169 arrived at minute 342 
+Customer 169 served by Register 1 at minute 342
+Customer 169 has left register 1 at minute 343
+Customer 170 arrived at minute 344 
+Customer 170 served by Register 1 at minute 344
+Customer 171 arrived at minute 347 
+Customer 171 served by Register 2 at minute 347
+Customer 172 arrived at minute 348 
+Customer 172 served by Register 3 at minute 348
+Customer 171 has left register 2 at minute 349
+Customer 170 has left register 1 at minute 350
+Customer 173 arrived at minute 351 
+Customer 173 served by Register 1 at minute 351
+Customer 174 arrived at minute 354 
+Customer 174 served by Register 2 at minute 354
+Customer 175 arrived at minute 355 
+Customer 175 added to queue 1
+Customer 172 has left register 3 at minute 357
+Customer 176 arrived at minute 357 
+Customer 176 served by Register 3 at minute 357
+Customer 176 has left register 3 at minute 358
+Customer 173 has left register 1 at minute 359
+Customer 175 served by Register 1 starting at minute 359
+Customer 174 has left register 2 at minute 359
+Customer 177 arrived at minute 360 
+Customer 177 served by Register 2 at minute 360
+Customer 178 arrived at minute 361 
+Customer 178 served by Register 3 at minute 361
+Customer 175 has left register 1 at minute 362
+Customer 179 arrived at minute 363 
+Customer 179 served by Register 1 at minute 363
+Customer 180 arrived at minute 365 
+Customer 180 added to queue 1
+Customer 178 has left register 3 at minute 367
+Customer 179 has left register 1 at minute 368
+Customer 180 served by Register 1 starting at minute 368
+Customer 177 has left register 2 at minute 368
+Customer 181 arrived at minute 368 
+Customer 181 served by Register 2 at minute 368
+Customer 180 has left register 1 at minute 371
+Customer 182 arrived at minute 371 
+Customer 182 served by Register 1 at minute 371
+Customer 183 arrived at minute 372 
+Customer 183 served by Register 3 at minute 372
+Customer 183 has left register 3 at minute 373
+Customer 184 arrived at minute 374 
+Customer 184 served by Register 3 at minute 374
+Customer 181 has left register 2 at minute 376
+Customer 185 arrived at minute 377 
+Customer 185 served by Register 2 at minute 377
+Customer 182 has left register 1 at minute 379
+Customer 186 arrived at minute 380 
+Customer 186 served by Register 1 at minute 380
+Customer 187 arrived at minute 381 
+Customer 187 added to queue 1
+Customer 186 has left register 1 at minute 383
+Customer 187 served by Register 1 starting at minute 383
+Customer 184 has left register 3 at minute 383
+Customer 188 arrived at minute 383 
+Customer 188 served by Register 3 at minute 383
+Customer 185 has left register 2 at minute 385
+Customer 189 arrived at minute 385 
+Customer 189 served by Register 2 at minute 385
+Customer 188 has left register 3 at minute 387
+Customer 190 arrived at minute 387 
+Customer 190 served by Register 3 at minute 387
+Customer 189 has left register 2 at minute 389
+Customer 191 arrived at minute 389 
+Customer 191 served by Register 2 at minute 389
+Customer 187 has left register 1 at minute 390
+Customer 192 arrived at minute 392 
+Customer 192 served by Register 1 at minute 392
+Customer 193 arrived at minute 395 
+Customer 193 added to queue 1
+Customer 190 has left register 3 at minute 397
+Customer 194 arrived at minute 397 
+Customer 194 served by Register 3 at minute 397
+Customer 191 has left register 2 at minute 399
+Customer 195 arrived at minute 400 
+Customer 195 served by Register 2 at minute 400
+Customer 192 has left register 1 at minute 401
+Customer 193 served by Register 1 starting at minute 401
+Customer 196 arrived at minute 403 
+Customer 196 added to queue 1
+Customer 197 arrived at minute 404 
+Customer 197 added to queue 2
+Customer 194 has left register 3 at minute 407
+Customer 198 arrived at minute 407 
+Customer 198 served by Register 3 at minute 407
+Customer 195 has left register 2 at minute 408
+Customer 197 served by Register 2 starting at minute 408
+Customer 199 arrived at minute 410 
+Customer 199 added to queue 2
+Customer 193 has left register 1 at minute 411
+Customer 196 served by Register 1 starting at minute 411
+Customer 200 arrived at minute 411 
+Customer 200 added to queue 1
+Customer 197 has left register 2 at minute 412
+Customer 199 served by Register 2 starting at minute 412
+Customer 201 arrived at minute 412 
+Customer 201 added to queue 2
+Customer 196 has left register 1 at minute 413
+Customer 200 served by Register 1 starting at minute 413
+Customer 202 arrived at minute 414 
+Customer 202 added to queue 1
+Customer 198 has left register 3 at minute 415
+Customer 203 arrived at minute 417 
+Customer 203 served by Register 3 at minute 417
+Customer 204 arrived at minute 418 
+Customer 204 added to queue 3
+Customer 200 has left register 1 at minute 420
+Customer 202 served by Register 1 starting at minute 420
+Customer 205 arrived at minute 420 
+Customer 205 added to queue 1
+Customer 199 has left register 2 at minute 421
+Customer 201 served by Register 2 starting at minute 421
+Customer 203 has left register 3 at minute 421
+Customer 204 served by Register 3 starting at minute 421
+Customer 201 has left register 2 at minute 422
+Customer 206 arrived at minute 422 
+Customer 206 served by Register 2 at minute 422
+Customer 204 has left register 3 at minute 424
+Customer 207 arrived at minute 424 
+Customer 207 served by Register 3 at minute 424
+Customer 208 arrived at minute 426 
+Customer 208 added to queue 2
+Customer 207 has left register 3 at minute 427
+Customer 202 has left register 1 at minute 428
+Customer 205 served by Register 1 starting at minute 428
+Customer 206 has left register 2 at minute 429
+Customer 208 served by Register 2 starting at minute 429
+Customer 209 arrived at minute 429 
+Customer 209 served by Register 3 at minute 429
+Customer 205 has left register 1 at minute 430
+Customer 208 has left register 2 at minute 431
+Customer 209 has left register 3 at minute 431
+Customer 210 arrived at minute 431 
+Customer 210 served by Register 1 at minute 431
+Customer 210 has left register 1 at minute 432
+Customer 211 arrived at minute 432 
+Customer 211 served by Register 1 at minute 432
+Customer 212 arrived at minute 433 
+Customer 212 served by Register 2 at minute 433
+Customer 213 arrived at minute 434 
+Customer 213 served by Register 3 at minute 434
+Customer 214 arrived at minute 435 
+Customer 214 added to queue 1
+Customer 211 has left register 1 at minute 438
+Customer 214 served by Register 1 starting at minute 438
+Customer 212 has left register 2 at minute 438
+Customer 213 has left register 3 at minute 438
+Customer 215 arrived at minute 438 
+Customer 215 served by Register 2 at minute 438
+Customer 216 arrived at minute 440 
+Customer 216 served by Register 3 at minute 440
+Customer 216 has left register 3 at minute 441
+Customer 214 has left register 1 at minute 442
+Customer 217 arrived at minute 442 
+Customer 217 served by Register 1 at minute 442
+Customer 218 arrived at minute 443 
+Customer 218 served by Register 3 at minute 443
+Customer 219 arrived at minute 446 
+Customer 219 added to queue 1
+Customer 217 has left register 1 at minute 447
+Customer 219 served by Register 1 starting at minute 447
+Customer 215 has left register 2 at minute 447
+Customer 220 arrived at minute 447 
+Customer 220 served by Register 2 at minute 447
+Customer 221 arrived at minute 448 
+Customer 221 added to queue 1
+Customer 219 has left register 1 at minute 449
+Customer 221 served by Register 1 starting at minute 449
+Customer 222 arrived at minute 449 
+Customer 222 added to queue 1
+Customer 218 has left register 3 at minute 451
+Customer 223 arrived at minute 451 
+Customer 223 served by Register 3 at minute 451
+Customer 221 has left register 1 at minute 452
+Customer 222 served by Register 1 starting at minute 452
+Customer 224 arrived at minute 452 
+Customer 224 added to queue 1
+Customer 223 has left register 3 at minute 453
+Customer 225 arrived at minute 453 
+Customer 225 served by Register 3 at minute 453
+Customer 220 has left register 2 at minute 455
+Customer 226 arrived at minute 456 
+Customer 226 served by Register 2 at minute 456
+Customer 225 has left register 3 at minute 457
+Customer 227 arrived at minute 458 
+Customer 227 served by Register 3 at minute 458
+Customer 226 has left register 2 at minute 459
+Customer 228 arrived at minute 461 
+Customer 228 served by Register 2 at minute 461
+Customer 222 has left register 1 at minute 462
+Customer 224 served by Register 1 starting at minute 462
+Customer 229 arrived at minute 462 
+Customer 229 added to queue 1
+Customer 224 has left register 1 at minute 463
+Customer 229 served by Register 1 starting at minute 463
+Customer 227 has left register 3 at minute 464
+Customer 230 arrived at minute 465 
+Customer 230 served by Register 3 at minute 465
+Customer 229 has left register 1 at minute 466
+Customer 230 has left register 3 at minute 468
+Customer 231 arrived at minute 468 
+Customer 231 served by Register 1 at minute 468
+Customer 232 arrived at minute 470 
+Customer 232 served by Register 3 at minute 470
+Customer 228 has left register 2 at minute 471
+Customer 232 has left register 3 at minute 472
+Customer 233 arrived at minute 473 
+Customer 233 served by Register 2 at minute 473
+Customer 234 arrived at minute 474 
+Customer 234 served by Register 3 at minute 474
+Customer 231 has left register 1 at minute 475
+Customer 233 has left register 2 at minute 476
+Customer 235 arrived at minute 477 
+Customer 235 served by Register 1 at minute 477
+Customer 235 has left register 1 at minute 479
+Customer 236 arrived at minute 480 
+Customer 236 served by Register 1 at minute 480
+Customer 236 has left register 1 at minute 481
+Customer 237 arrived at minute 481 
+Customer 237 served by Register 1 at minute 481
+Customer 234 has left register 3 at minute 484
+Customer 238 arrived at minute 484 
+Customer 238 served by Register 2 at minute 484
+Customer 237 has left register 1 at minute 486
+Customer 238 has left register 2 at minute 486
+Customer 239 arrived at minute 487 
+Customer 239 served by Register 1 at minute 487
+Customer 240 arrived at minute 488 
+Customer 240 served by Register 2 at minute 488
+Customer 239 has left register 1 at minute 490
+Customer 240 has left register 2 at minute 490
+Customer 241 arrived at minute 491 
+Customer 241 served by Register 1 at minute 491
+Customer 242 arrived at minute 493 
+Customer 242 served by Register 2 at minute 493
+Customer 243 arrived at minute 494 
+Customer 243 served by Register 3 at minute 494
+Customer 241 has left register 1 at minute 496
+Customer 244 arrived at minute 496 
+Customer 244 served by Register 1 at minute 496
+Customer 244 has left register 1 at minute 498
+Customer 243 has left register 3 at minute 499
+Customer 245 arrived at minute 499 
+Customer 245 served by Register 1 at minute 499
+Customer 245 has left register 1 at minute 501
+Customer 242 has left register 2 at minute 501
+Customer 246 arrived at minute 501 
+Customer 246 served by Register 1 at minute 501
+Customer 247 arrived at minute 504 
+Customer 247 served by Register 2 at minute 504
+Customer 248 arrived at minute 505 
+Customer 248 served by Register 3 at minute 505
+Customer 249 arrived at minute 506 
+Customer 249 added to queue 1
+Customer 248 has left register 3 at minute 507
+Customer 250 arrived at minute 508 
+Customer 250 served by Register 3 at minute 508
+Customer 246 has left register 1 at minute 510
+Customer 249 served by Register 1 starting at minute 510
+Customer 251 arrived at minute 511 
+Customer 251 added to queue 1
+Customer 249 has left register 1 at minute 512
+Customer 251 served by Register 1 starting at minute 512
+Customer 247 has left register 2 at minute 513
+Customer 251 has left register 1 at minute 514
+Customer 252 arrived at minute 514 
+Customer 252 served by Register 1 at minute 514
+Customer 253 arrived at minute 516 
+Customer 253 served by Register 2 at minute 516
+Customer 254 arrived at minute 517 
+Customer 254 added to queue 1
+Customer 253 has left register 2 at minute 518
+Customer 250 has left register 3 at minute 518
+Customer 255 arrived at minute 519 
+Customer 255 served by Register 2 at minute 519
+Customer 252 has left register 1 at minute 522
+Customer 254 served by Register 1 starting at minute 522
+Customer 256 arrived at minute 522 
+Customer 256 served by Register 3 at minute 522
+Customer 255 has left register 2 at minute 523
+Customer 257 arrived at minute 523 
+Customer 257 served by Register 2 at minute 523
+Customer 257 has left register 2 at minute 524
+Customer 254 has left register 1 at minute 526
+Customer 258 arrived at minute 526 
+Customer 258 served by Register 1 at minute 526
+Customer 256 has left register 3 at minute 527
+Customer 259 arrived at minute 527 
+Customer 259 served by Register 2 at minute 527
+Customer 260 arrived at minute 529 
+Customer 260 served by Register 3 at minute 529
+Customer 261 arrived at minute 532 
+Customer 261 added to queue 1
+Customer 260 has left register 3 at minute 534
+Customer 262 arrived at minute 535 
+Customer 262 served by Register 3 at minute 535
+Customer 258 has left register 1 at minute 536
+Customer 261 served by Register 1 starting at minute 536
+Customer 259 has left register 2 at minute 536
+Customer 263 arrived at minute 536 
+Customer 263 served by Register 2 at minute 536
+Customer 262 has left register 3 at minute 537
+Customer 264 arrived at minute 539 
+Customer 264 served by Register 3 at minute 539
+Customer 263 has left register 2 at minute 541
+Customer 264 has left register 3 at minute 541
+Customer 265 arrived at minute 542 
+Customer 265 served by Register 2 at minute 542
+Customer 261 has left register 1 at minute 545
+Customer 266 arrived at minute 545 
+Customer 266 served by Register 1 at minute 545
+Customer 266 has left register 1 at minute 546
+Customer 267 arrived at minute 547 
+Customer 267 served by Register 1 at minute 547
+Customer 268 arrived at minute 548 
+Customer 268 served by Register 3 at minute 548
+Customer 267 has left register 1 at minute 550
+Customer 265 has left register 2 at minute 550
+Customer 269 arrived at minute 551 
+Customer 269 served by Register 1 at minute 551
+Customer 270 arrived at minute 553 
+Customer 270 served by Register 2 at minute 553
+Customer 268 has left register 3 at minute 555
+Customer 270 has left register 2 at minute 556
+Customer 271 arrived at minute 556 
+Customer 271 served by Register 2 at minute 556
+Customer 272 arrived at minute 559 
+Customer 272 served by Register 3 at minute 559
+Customer 269 has left register 1 at minute 560
+Customer 273 arrived at minute 560 
+Customer 273 served by Register 1 at minute 560
+Customer 272 has left register 3 at minute 561
+Customer 274 arrived at minute 563 
+Customer 274 served by Register 3 at minute 563
+Customer 271 has left register 2 at minute 564
+Customer 275 arrived at minute 564 
+Customer 275 served by Register 2 at minute 564
+Customer 276 arrived at minute 566 
+Customer 276 added to queue 1
+Customer 273 has left register 1 at minute 568
+Customer 276 served by Register 1 starting at minute 568
+Customer 276 has left register 1 at minute 569
+Customer 274 has left register 3 at minute 569
+Customer 277 arrived at minute 569 
+Customer 277 served by Register 1 at minute 569
+Customer 275 has left register 2 at minute 570
+Customer 278 arrived at minute 571 
+Customer 278 served by Register 2 at minute 571
+Customer 279 arrived at minute 572 
+Customer 279 served by Register 3 at minute 572
+Customer 277 has left register 1 at minute 574
+Customer 280 arrived at minute 574 
+Customer 280 served by Register 1 at minute 574
+Customer 278 has left register 2 at minute 577
+Customer 281 arrived at minute 577 
+Customer 281 served by Register 2 at minute 577
+Customer 280 has left register 1 at minute 580
+Customer 282 arrived at minute 580 
+Customer 282 served by Register 1 at minute 580
+Customer 279 has left register 3 at minute 581
+Customer 283 arrived at minute 581 
+Customer 283 served by Register 3 at minute 581
+Customer 284 arrived at minute 584 
+Customer 284 added to queue 1
+Customer 285 arrived at minute 585 
+Customer 285 added to queue 2
+Customer 281 has left register 2 at minute 587
+Customer 285 served by Register 2 starting at minute 587
+Customer 283 has left register 3 at minute 587
+Customer 286 arrived at minute 587 
+Customer 286 served by Register 3 at minute 587
+Customer 287 arrived at minute 588 
+Customer 287 added to queue 2
+Customer 282 has left register 1 at minute 589
+Customer 284 served by Register 1 starting at minute 589
+Customer 288 arrived at minute 590 
+Customer 288 added to queue 1
+Customer 289 arrived at minute 591 
+Customer 289 added to queue 3
+Customer 290 arrived at minute 594 
+Customer 290 added to queue 1
+Customer 285 has left register 2 at minute 595
+Customer 287 served by Register 2 starting at minute 595
+Customer 286 has left register 3 at minute 595
+Customer 289 served by Register 3 starting at minute 595
+Customer 291 arrived at minute 595 
+Customer 291 added to queue 2
+Customer 292 arrived at minute 596 
+Customer 292 added to queue 3
+Customer 284 has left register 1 at minute 598
+Customer 288 served by Register 1 starting at minute 598
+Customer 289 has left register 3 at minute 598
+Customer 292 served by Register 3 starting at minute 598
+Customer 293 arrived at minute 599 
+Customer 293 added to queue 3
+Customer 294 arrived at minute 601 
+Customer 294 added to queue 1
+Customer 287 has left register 2 at minute 602
+Customer 291 served by Register 2 starting at minute 602
+Customer 295 arrived at minute 602 
+Customer 295 added to queue 2
+Customer 292 has left register 3 at minute 603
+Customer 293 served by Register 3 starting at minute 603
+Customer 296 arrived at minute 603 
+Customer 296 added to queue 3
+Customer 297 arrived at minute 604 
+Customer 297 added to queue 2
+Customer 288 has left register 1 at minute 605
+Customer 290 served by Register 1 starting at minute 605
+Customer 298 arrived at minute 606 
+Customer 298 added to queue 1
+Customer 291 has left register 2 at minute 608
+Customer 295 served by Register 2 starting at minute 608
+Customer 299 arrived at minute 609 
+Customer 299 added to queue 2
+Customer 290 has left register 1 at minute 610
+Customer 294 served by Register 1 starting at minute 610
+Customer 300 arrived at minute 612 
+Customer 300 added to queue 1
+Customer 293 has left register 3 at minute 613
+Customer 296 served by Register 3 starting at minute 613
+Customer 301 arrived at minute 613 
+Customer 301 added to queue 3
+Customer 296 has left register 3 at minute 614
+Customer 301 served by Register 3 starting at minute 614
+Customer 302 arrived at minute 614 
+Customer 302 added to queue 3
+Customer 303 arrived at minute 617 
+Customer 303 added to queue 3
+Customer 295 has left register 2 at minute 618
+Customer 297 served by Register 2 starting at minute 618
+Customer 301 has left register 3 at minute 618
+Customer 302 served by Register 3 starting at minute 618
+Customer 304 arrived at minute 618 
+Customer 304 added to queue 2
+Customer 305 arrived at minute 619 
+Customer 305 added to queue 3
+Customer 294 has left register 1 at minute 620
+Customer 298 served by Register 1 starting at minute 620
+Customer 306 arrived at minute 620 
+Customer 306 added to queue 1
+Customer 307 arrived at minute 622 
+Customer 307 added to queue 1
+Customer 298 has left register 1 at minute 623
+Customer 300 served by Register 1 starting at minute 623
+Customer 297 has left register 2 at minute 623
+Customer 299 served by Register 2 starting at minute 623
+Customer 308 arrived at minute 624 
+Customer 308 added to queue 2
+Customer 309 arrived at minute 625 
+Customer 309 added to queue 1
+Customer 310 arrived at minute 627 
+Customer 310 added to queue 2
+Customer 302 has left register 3 at minute 628
+Customer 303 served by Register 3 starting at minute 628
+Customer 299 has left register 2 at minute 629
+Customer 304 served by Register 2 starting at minute 629
+Customer 311 arrived at minute 630 
+Customer 311 added to queue 3
+Customer 300 has left register 1 at minute 631
+Customer 306 served by Register 1 starting at minute 631
+Customer 312 arrived at minute 632 
+Customer 312 added to queue 1
+Customer 303 has left register 3 at minute 633
+Customer 305 served by Register 3 starting at minute 633
+Customer 313 arrived at minute 633 
+Customer 313 added to queue 3
+Customer 305 has left register 3 at minute 634
+Customer 311 served by Register 3 starting at minute 634
+Customer 314 arrived at minute 634 
+Customer 314 added to queue 3
+Customer 304 has left register 2 at minute 635
+Customer 308 served by Register 2 starting at minute 635
+Customer 315 arrived at minute 636 
+Customer 315 added to queue 2
+Customer 316 arrived at minute 637 
+Customer 316 added to queue 2
+Customer 306 has left register 1 at minute 638
+Customer 307 served by Register 1 starting at minute 638
+Customer 311 has left register 3 at minute 640
+Customer 313 served by Register 3 starting at minute 640
+Customer 317 arrived at minute 640 
+Customer 317 added to queue 3
+Customer 318 arrived at minute 642 
+Customer 318 added to queue 1
+Customer 308 has left register 2 at minute 643
+Customer 310 served by Register 2 starting at minute 643
+Customer 319 arrived at minute 643 
+Customer 319 added to queue 2
+Customer 320 arrived at minute 644 
+Customer 320 added to queue 3
+Customer 310 has left register 2 at minute 645
+Customer 315 served by Register 2 starting at minute 645
+Customer 307 has left register 1 at minute 646
+Customer 309 served by Register 1 starting at minute 646
+Customer 315 has left register 2 at minute 646
+Customer 316 served by Register 2 starting at minute 646
+Customer 321 arrived at minute 647 
+Customer 321 added to queue 2
+Customer 322 arrived at minute 648 
+Customer 322 added to queue 1
+Customer 313 has left register 3 at minute 650
+Customer 314 served by Register 3 starting at minute 650
+Customer 309 has left register 1 at minute 651
+Customer 312 served by Register 1 starting at minute 651
+Customer 323 arrived at minute 651 
+Customer 323 added to queue 1
+Customer 324 arrived at minute 653 
+Customer 324 added to queue 2
+Customer 314 has left register 3 at minute 654
+Customer 317 served by Register 3 starting at minute 654
+Customer 325 arrived at minute 654 
+Customer 325 added to queue 3
+Customer 316 has left register 2 at minute 656
+Customer 319 served by Register 2 starting at minute 656
+Customer 326 arrived at minute 656 
+Customer 326 added to queue 2
+Customer 327 arrived at minute 657 
+Customer 327 added to queue 3
+Customer 312 has left register 1 at minute 658
+Customer 318 served by Register 1 starting at minute 658
+Customer 328 arrived at minute 658 
+Customer 328 added to queue 1
+Customer 317 has left register 3 at minute 659
+Customer 320 served by Register 3 starting at minute 659
+Customer 329 arrived at minute 659 
+Customer 329 added to queue 3
+Customer 330 arrived at minute 661 
+Customer 330 added to queue 1
+Customer 331 arrived at minute 662 
+Customer 331 added to queue 2
+Customer 319 has left register 2 at minute 663
+Customer 321 served by Register 2 starting at minute 663
+Customer 318 has left register 1 at minute 664
+Customer 322 served by Register 1 starting at minute 664
+Customer 332 arrived at minute 665 
+Customer 332 added to queue 1
+Customer 333 arrived at minute 666 
+Customer 333 added to queue 2
+Customer 334 arrived at minute 667 
+Customer 334 added to queue 3
+Customer 322 has left register 1 at minute 669
+Customer 323 served by Register 1 starting at minute 669
+Customer 320 has left register 3 at minute 669
+Customer 325 served by Register 3 starting at minute 669
+Customer 335 arrived at minute 669 
+Customer 335 added to queue 1
+Customer 321 has left register 2 at minute 670
+Customer 324 served by Register 2 starting at minute 670
+Customer 336 arrived at minute 671 
+Customer 336 added to queue 2
+Customer 337 arrived at minute 673 
+Customer 337 added to queue 3
+Customer 324 has left register 2 at minute 675
+Customer 326 served by Register 2 starting at minute 675
+Customer 338 arrived at minute 675 
+Customer 338 added to queue 2
+Customer 326 has left register 2 at minute 677
+Customer 331 served by Register 2 starting at minute 677
+Customer 339 arrived at minute 678 
+Customer 339 added to queue 2
+Customer 323 has left register 1 at minute 679
+Customer 328 served by Register 1 starting at minute 679
+Customer 325 has left register 3 at minute 679
+Customer 327 served by Register 3 starting at minute 679
+Customer 331 has left register 2 at minute 681
+Customer 333 served by Register 2 starting at minute 681
+Customer 340 arrived at minute 681 
+Customer 340 added to queue 1
+Customer 341 arrived at minute 682 
+Customer 341 added to queue 2
+Customer 342 arrived at minute 683 
+Customer 342 added to queue 3
+Customer 333 has left register 2 at minute 686
+Customer 336 served by Register 2 starting at minute 686
+Customer 327 has left register 3 at minute 686
+Customer 329 served by Register 3 starting at minute 686
+Customer 343 arrived at minute 686 
+Customer 343 added to queue 2
+Customer 328 has left register 1 at minute 687
+Customer 330 served by Register 1 starting at minute 687
+Customer 344 arrived at minute 687 
+Customer 344 added to queue 1
+Customer 345 arrived at minute 689 
+Customer 345 added to queue 3
+Customer 330 has left register 1 at minute 692
+Customer 332 served by Register 1 starting at minute 692
+Customer 346 arrived at minute 692 
+Customer 346 added to queue 1
+Customer 347 arrived at minute 693 
+Customer 347 added to queue 1
+Customer 329 has left register 3 at minute 694
+Customer 334 served by Register 3 starting at minute 694
+Customer 334 has left register 3 at minute 695
+Customer 337 served by Register 3 starting at minute 695
+Customer 348 arrived at minute 695 
+Customer 348 added to queue 3
+Customer 336 has left register 2 at minute 696
+Customer 338 served by Register 2 starting at minute 696
+Customer 332 has left register 1 at minute 698
+Customer 335 served by Register 1 starting at minute 698
+Customer 349 arrived at minute 698 
+Customer 349 added to queue 2
+Customer 350 arrived at minute 700 
+Customer 350 added to queue 3
+Customer 351 arrived at minute 701 
+Customer 351 added to queue 1
+Customer 337 has left register 3 at minute 702
+Customer 342 served by Register 3 starting at minute 702
+Customer 352 arrived at minute 702 
+Customer 352 added to queue 3
+Customer 338 has left register 2 at minute 703
+Customer 339 served by Register 2 starting at minute 703
+Customer 335 has left register 1 at minute 704
+Customer 340 served by Register 1 starting at minute 704
+Customer 342 has left register 3 at minute 705
+Customer 345 served by Register 3 starting at minute 705
+Customer 353 arrived at minute 705 
+Customer 353 added to queue 2
+Customer 354 arrived at minute 706 
+Customer 354 added to queue 3
+Customer 355 arrived at minute 707 
+Customer 355 added to queue 1
+Customer 340 has left register 1 at minute 708
+Customer 344 served by Register 1 starting at minute 708
+Customer 339 has left register 2 at minute 710
+Customer 341 served by Register 2 starting at minute 710
+Customer 345 has left register 3 at minute 710
+Customer 348 served by Register 3 starting at minute 710
+Customer 356 arrived at minute 710 
+Customer 356 added to queue 2
+Customer 357 arrived at minute 713 
+Customer 357 added to queue 3
+Customer 344 has left register 1 at minute 714
+Customer 346 served by Register 1 starting at minute 714
+Customer 358 arrived at minute 715 
+Customer 358 added to queue 1
+Customer 348 has left register 3 at minute 717
+Customer 350 served by Register 3 starting at minute 717
+Customer 359 arrived at minute 718 
+Customer 359 added to queue 3
+Customer 341 has left register 2 at minute 719
+Customer 343 served by Register 2 starting at minute 719
+Customer 360 arrived at minute 720 
+Customer 360 added to queue 2
+
+Average wait time (mins): 3.64
+Maximum wait time (mins): 33
+Maximum line length: 5
